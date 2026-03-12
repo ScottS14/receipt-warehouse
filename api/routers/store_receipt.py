@@ -1,0 +1,5 @@
+
+
+
+
+def store_receipt():
